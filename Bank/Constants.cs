@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Bank
 {
+    //Клас за съхранение на постоянна стойност
     internal class Constants
     {
         public const string _filePath = "clients.txt";
