@@ -1,0 +1,3 @@
+﻿1,Ivan,Petrov,16,BG1010101010,500.00,1234
+2,Maria,Georgieva,17,BG2020202020,4887.00,pass
+3,Niki,Ivanov,18,BG3030303030,28938.00,mazna
