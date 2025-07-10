@@ -8,6 +8,7 @@ namespace Bank
 {
     internal class Client
     {
+        // Свойства на клиента: ID, име, фамилия, възраст, IBAN, баланс и парола
         public string ID { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
@@ -16,6 +17,7 @@ namespace Bank
         public decimal Balance { get; set; }
         public string Password { get; set; }
 
+        // Конструктор – задава началните стойности на клиента
         public Client(string ID, string FirstName, string LastName, int Age, string IBAN, decimal Balance, string Password)
         { 
             this.ID = ID;
